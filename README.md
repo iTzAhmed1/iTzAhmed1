@@ -1,7 +1,7 @@
 # Welcome to My Cybersecurity Portfolio
 
 
-Hello, I'm Ahmed, a passionate beginner in the field of cybersecurity, based in Tunisia, with a particular focus on networks and security. This repository serves as my platform to showcase my journey, projects, and learning in the exciting world of cybersecurity.
+Hello, I'm Ahmed, a passionate beginner in the field of cybersecurity,with a particular focus on networks and security. This repository serves as my platform to showcase my journey, projects, and learning in the exciting world of cybersecurity.
 
 ## About Me
 
