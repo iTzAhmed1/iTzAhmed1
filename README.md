@@ -12,10 +12,10 @@ Hello, I'm Ahmed, a passionate beginner in the field of cybersecurity,with a par
 
 ## Projects
 
-### Project 1: [Project Name]
+### Project 1: KeyLogger
 
-- [Project Description]
-- [Link to the project or repository]
+- A PYTHON PROGRAM THAT IS USED TO CAPTURE KEYSTROKES
+- https://github.com/iTzAhmed1/KeyLogger
 
 ### Project 2: [Project Name]
 
