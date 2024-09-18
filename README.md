@@ -1,24 +1,28 @@
 # Welcome To My Cybersecurity Portfolio 🛡️
 
-Hello, I'm **Ahmed**, a passionate beginner in the field of cybersecurity, with a particular focus on networks and security. This repository serves as my platform to showcase my journey, projects, and learning in the exciting world of cybersecurity.
+Hello, I'm **Ahmed**, a passionate beginner in the field of cybersecurity with a particular focus on networks and security. This repository serves as my platform to showcase my journey, projects, and learning in the exciting world of cybersecurity as I work towards becoming a **Penetration Tester (Pentester)**.
 
 ---
 
 ## 👨‍💻 About Me
 
-- **🌍 Location:** Tunisia, Sousse, Hammam Sousse
-- **🔗 LinkedIn:** [Ahmed Lahouar](https://www.linkedin.com/in/ahmed-lahouar-092973295/)
+- **🌍 Location:** Tunisia, Sousse, Hammam Sousse  
+- **🔗 LinkedIn:** [Ahmed Lahouar](https://www.linkedin.com/in/ahmed-lahouar-092973295/)  
 - **📧 Email:** [ahmedhwar886@gmail.com](mailto:ahmedhwar886@gmail.com)
 
-I am currently exploring various aspects of cybersecurity and deepening my knowledge of networks, system security, and ethical hacking. I'm eager to connect with like-minded individuals and contribute to open-source projects.
+I am currently focusing on network security, penetration testing, and deepening my knowledge in ethical hacking. My goal is to become a professional pentester, and I'm working hard to achieve this by constantly learning, experimenting, and contributing to the cybersecurity community.
+
+I'm eager to connect with like-minded individuals and contribute to open-source projects. Let's collaborate and secure the digital world together!
 
 ---
 
 ## 🔬 Projects
 
-- **[KeyLogger](https://github.com/iTzAhmed1/KeyLogger):** A Python program that captures keystrokes for security testing.
-- **[Project Name]:** [Brief description of the project.](#)
-  - [Link to the project or repository](#)
+- **[KeyLogger](https://github.com/iTzAhmed1/KeyLogger):** A Python-based keylogger developed for ethical hacking and security analysis purposes. This tool captures and logs keystrokes and can be used in testing secure input environments.
+  
+- **[Vulnerability Scanner](#):** (Coming soon) A Python tool designed to identify vulnerabilities in web applications by scanning for common exploits. It will provide pentesters with insights into weak points in websites.
+  
+- **[Network Traffic Analyzer](#):** (Coming soon) A tool built for monitoring and analyzing network traffic in real time, aimed at identifying potential security threats and vulnerabilities in network protocols.
 
 > **Note:** Check out my repositories for more exciting projects and contributions!
 
@@ -34,27 +38,37 @@ I am currently exploring various aspects of cybersecurity and deepening my knowl
 ![Operating Systems](https://img.shields.io/badge/-Operating%20Systems-orange)
 ![Virtual Machines](https://img.shields.io/badge/-Virtual%20Machines-purple)
 
-### Core Competencies
+### Core Skills
 - **Cybersecurity Fundamentals**
-- **Good at Coding:** (Python, SQL)
+- **Network Security**
+- **Penetration Testing** (Ethical Hacking, Vulnerability Scanning, Exploitation)
 - **Linux Proficiency**
 - **Operating Systems and Virtual Machines**
-- **Network Security**  
-- **Penetration Testing**
+- **Good at Coding:** (Python, SQL)
+- **Traffic Monitoring & Analysis**
 
 ---
 
 ## 🎓 Certifications
 
 - **Google Cybersecurity Professional Certificate**
-- [Add more certifications here!]
+- **Cisco Networking: Ethical Hacker**
+- **Coursera: Play It Safe: Manage Security Risks**
+- **Cisco: Introduction to Cybersecurity**
+
+I'm currently working towards earning certifications like **OSCP** and **CEH** to further solidify my penetration testing skills.
 
 ---
 
 ## 📝 Blog
 
-### Welcome to My Cybersecurity Blog! 
+### Welcome to My Cybersecurity Blog!  
 Join me on my journey into the captivating realm of cybersecurity! I regularly share my experiences, challenges, and discoveries as I learn and grow in this field. If you're a beginner or just curious, [check out my latest blog posts](#).
+
+Upcoming blog posts:
+- **Securing Linux Servers: A Beginner's Guide**
+- **Pentesting Web Applications: Tools and Techniques**
+- **Exploring Network Vulnerabilities: My Learning Path**
 
 ---
 
@@ -67,16 +81,16 @@ Join me on my journey into the captivating realm of cybersecurity! I regularly s
 
 ## 📫 Contact Me
 
-- **LinkedIn:** [Ahmed Lahouar](https://www.linkedin.com/in/ahmed-lahouar-092973295/)
+- **LinkedIn:** [Ahmed Lahouar](https://www.linkedin.com/in/ahmed-lahouar-092973295/)  
 - **Email:** [ahmedhwar886@gmail.com](mailto:ahmedhwar886@gmail.com)
 
-Feel free to connect if you're interested in cybersecurity or have any cool projects to collaborate on. Let's learn, explore, and secure the digital world together! 🌐
+Feel free to connect if you're interested in cybersecurity or have any cool projects to collaborate on. Let’s learn, explore, and secure the digital world together! 🌐
 
 ---
 
 ## 🌟 Fun Fact
 
-I believe that a curious mind and a persistent attitude are the keys to unlocking the vast mysteries of the digital universe. Let's make security fun and rewarding!
+I believe that a curious mind and a persistent attitude are the keys to unlocking the vast mysteries of the digital universe. As I strive to become a professional pentester, I find that breaking down complex systems and uncovering vulnerabilities is both fun and rewarding!
 
 ---
 
